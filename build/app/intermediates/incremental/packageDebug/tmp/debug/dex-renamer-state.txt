@@ -1,0 +1,4 @@
+#Fri Apr 24 19:07:41 BRT 2020
+base.0=/media/anderson/DATA/Documentos/FADEP/Fadep-2020-1/DispositivosMoveis/projetos/trabdemo/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
